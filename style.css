@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.mid-part{
+    position: relative;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+   
+    
+}
+ .main{
+
+    
+}
+.stick {
+  
+    position: absolute;
+    top: 0;
+    left: 36px;
+    width: 10px;
+    height: 600px;
+    border: 1px solid #000;
+ 
+   
+}
+.flag {
+    width: 350px;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+    margin: 50px;
+  
+   
+}
+.circle {
+   margin-top: 45px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    
+}  
+.mud {
+    width: 100px;
+    height: 60px;
+    border-radius: 20px 0;
+    border: 1px solid #000;
+    margin-top: 370px;
+}
